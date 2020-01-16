@@ -9,6 +9,17 @@
 	color: #CC00AA;
 }
 
+.project p { 
+     /*font-variant: small-caps;*/
+ }
+
+.project {
+     margin-left: 20px;
+     /*background-color: #deebf7;*/
+     padding: 20px;
+     width:750px;
+}
+
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
